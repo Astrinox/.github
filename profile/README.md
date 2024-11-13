@@ -7,4 +7,4 @@
 ## Where to find us:
 - Here!
 - [Modrinth](https://modrinth.com/organization/astrinox)
-- Discord, eventually
+- [Discord](https://discord.gg/EfakaSmBYv)
